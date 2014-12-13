@@ -1,0 +1,24 @@
+1)Go to code directory.
+2)First Divide your corpus into 80% training and 20% into testing file.For this
+	Run python divide_files_train_test.py
+
+Now follow these steps for running a particular tagger
+
+CRF++
+
+1) Run make_word_separated_by_tags.py # for making a file that is word and space separated by its tag
+	python make_word_separated_by_tags.py
+   and do this for both training file and testing file.Let name of new train and new test file be A and B respectively.
+2) Run the command  [iconv -c -f utf-8 -t ascii <file_name> > <new_file_name] # for removing non-ascii character from the  file.
+   Do this for both train and test file
+3) Run make_feature.py # for making feature file using the new file made in above step
+	python make_feature.py # for both train and test file
+4) Run crf_learn ../CRF++-0.58/template_file <name_of_feature_train_file_from_step3> ../model/model_file.
+5) Run crf_test -m ../model/model_file <name_of_test_file_obtained_from_step3>  > <name_of_the_output_file>
+6) Run accuracy.py on name of the output file obtained from step5.
+
+HMM
+
+1) Run add_hin.py on train and test file.
+2) Run HMM.py on training and testing file obtained from step1
+3) Run accuracy.py

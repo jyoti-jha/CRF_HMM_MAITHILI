@@ -1,0 +1,432 @@
+Enter testing file
+Enter Training File
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+['<start>', 'INTF', 'RP', 'WQ', 'NN', 'CC', 'NEG', 'RB', 'VM', 'SYM', 'DEM', 'VAUX', 'QC', 'PRP', 'JJ', 'QF', 'PSP', 'NST', 'QO', 'NNP']
+y=  <start>
+5000.00714286
+y=  INTF
+5000.00714286
+y=  RP
+5000.00714286
+y=  WQ
+5000.00714286
+y=  NN
+5005.00714286
+y=  CC
+5000.00714286
+y=  NEG
+5000.00714286
+y=  RB
+5001.00714286
+y=  VM
+5000.00714286
+y=  SYM
+5000.00714286
+y=  DEM
+5012.00714286
+y=  VAUX
+5000.00714286
+y=  QC
+5005.00714286
+y=  PRP
+5003.00714286
+y=  JJ
+5004.00714286
+y=  QF
+5001.00714286
+y=  PSP
+5000.00714286
+y=  NST
+5001.00714286
+y=  QO
+5000.00714286
+y=  NNP
+5038.00714286
+Pera  kona_UNK muMha_UNK sa_NNP  wirahuwa_NNP  ka_RP  ehi_DEM  Xarohara_NN  kae_PSP  patanA_NNP  paTAula_NNP  jAe_NNP  .  
+
+rAjaXAnI  kae_PSP  wirahuwa_NNP  sa_NNP  okara_NNP  Xarohara_NN  cAhI_NNP  ,_SYM  muxA_NNP  o_PRP  wirahuwa_NNP  kae_PSP  okara_NNP  Xarohara_NN  nahi_NEG  GurAuwa_PRP  .  
+
+i  i_PRP  xoharA_UNK mAnaxaMda_NNP  ke_PSP  maMjUra_NNP  karawa_NNP  .  
+
+sarakAraka  sarakAraka_NNP  ehi_DEM  dega_NNP  kae_PSP  viroXa_NNP  karEwa_NNP  nagara_NNP  viXAyaka_NN  saMjaya_NNP  sarAvagI_NNP  kahEwa_NNP  CaWi_VM  je_DEM  rAjya_NN  sarakAra_NN  ka_RP  i_PRP  nirNaya_JJ  Gora_NNP  Apawwijanaka_NNP  A_CC  miWilAka_NNP  saMga_PSP  anyAya_NNP  aCi_VAUX  .  
+
+eka  xisa_SYM  muKyamaMwrI_NN  nIwISa_NNP  kumAra_NNP  kahEwa_NNP  CaWi_VM  je_DEM  miWilAka_NNP  bikAsaka_NNP  binA_NNP  bihAraka_NN  bikAsa_NNP  saMBava_NNP  nahi_NEG  A_CC  xosara_QC  xisa_SYM  miWilAka_NNP  Xarohara_NN  kae_PSP  seho_RB  xaraBaMgA_NNP  sa_NNP  patanA_NNP  maMgA_NNP  rahala_VM  CaWi_VM  .  
+
+sarakAra  sarakAra_NN  ehi_DEM  nirNayaka_NNP  viroXa_NNP  me_PSP  jilA_NN  BAjapA_NNP  guruxina_NNP  saMgrahAlayaka_NNP  wAlAbaMxI_NNP  kelaka_NNP  A_CC  XaranA_NNP  xelaka_VM  .  
+
+ehi  ehi_DEM  xOrAna_UNK xaraBaMgAka_NNP  loka_NNP  jami_NNP  kae_PSP  sarakAraka_NNP  nirNayaka_NNP  viroXa_NNP  kElAWi_NNP  .  
+
+viXAyaka  viXAyaka_NN  saMjaya_NNP  sarAvagI_NNP  ,_SYM  mahApOra_NNP  gOdZI_NNP  pAsavAna_NNP  ,_SYM  dOY._NNP  mahAnagara_NNP  rAjaxa_NNP  aXyakRa_NNP  vikAsa_NNP  kumAra_NNP  praPula_NNP  ,_SYM  BAjapA_NNP  jilAXyakRa_NNP  jagaxISa_NNP  sAha_NNP  ,_SYM  nigama_NNP  pArRaxa_NNP  praxIpa_NNP  kumAra_NNP  gupwA_NNP  ,_SYM  pUrva_JJ  meyara_NN  ajaya_NNP  pAsavAna_NNP  sahiwa_NNP  kaI_NNP  gote_NNP  sarakAraka_NNP  ehi_DEM  nirNayaka_NNP  AlocanA_WQ  karEwa_NNP  ekara_WQ  viroXa_NNP  kelaWi_WQ  .  
+
+miWilA  miWilA_WQ  ke_PSP  hoewa_WQ  je_DEM  ekara_WQ  viroXa_NNP  nahi_NEG  karawa_NNP  ,_SYM  muxA_NNP  KuSIka_WQ  gapa_WQ  i_PRP  je_DEM  xaraBaMgAka_NNP  loka_NNP  cAhe_WQ  je_DEM  kAraNa_WQ  hue_WQ  miWilAka_NNP  ciMwA_WQ  kelaka_NNP  ,_SYM  i_PRP  miWilA_WQ  lela_WQ  SuBa_WQ  saMkewa_WQ  kahala_WQ  jA_WQ  sakEwa_WQ  aCi_VAUX  .  
+
+sWAnIya  viXAyaka_NN  saMjaya_NNP  sarAvagIka_WQ  newqwva_WQ  me_PSP  ekawra_WQ  Bela_WQ  miWilA_WQ  bihAra_WQ  sarakAra_NN  sa_NNP  basa_WQ  ewabA_WQ  pUCi_WQ  rahala_VM  aCi_VAUX  je_DEM  kewabA_WQ  leba_WQ  ahAM_WQ  hamarA_WQ  sa_NNP  i_PRP  qNa_WQ  AKira_WQ  kahiyA_WQ  waka_WQ  .  
+
